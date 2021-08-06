@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1628162524,
+	"version": 1628227537,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,6 +16,14 @@
 		"images/tiledbackground.png",
 		"images/laneguide.png",
 		"images/ski_jatuh-sheet0.png",
+		"images/coin-sheet0.png",
+		"images/coin-sheet1.png",
+		"images/heart-sheet0.png",
+		"images/heart-sheet1.png",
+		"images/papanscore-sheet0.png",
+		"images/replay-sheet0.png",
+		"images/stop-sheet0.png",
+		"images/star-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
