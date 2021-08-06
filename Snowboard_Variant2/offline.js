@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1628257804,
+	"version": 1628258337,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,8 +29,6 @@
 		"images/startbutton-sheet0.png",
 		"images/laneguide.png",
 		"media/mattoglseby - 3.ogg",
-		"media/mattoglseby - 7.ogg",
-		"media/mattoglseby - 4.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
