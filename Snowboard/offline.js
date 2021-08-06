@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1628230041,
+	"version": 1628233582,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,8 +11,9 @@
 		"images/sprite3-sheet0.png",
 		"images/sprite4-sheet0.png",
 		"images/sprite5-sheet0.png",
-		"images/ski_depan-sheet0.png",
-		"images/ski_depan-sheet1.png",
+		"images/character-sheet0.png",
+		"images/character-sheet1.png",
+		"images/character-sheet2.png",
 		"images/tiledbackground.png",
 		"images/laneguide.png",
 		"images/ski_jatuh-sheet0.png",
@@ -25,6 +26,7 @@
 		"images/stop-sheet0.png",
 		"images/star-sheet0.png",
 		"images/contohscore-sheet0.png",
+		"images/efekhit-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
