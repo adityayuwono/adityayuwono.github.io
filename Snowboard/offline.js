@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1628348650,
+	"version": 1628358091,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,7 +27,6 @@
 		"images/efekhit-sheet0.png",
 		"images/dini_fransiska-sheet0.png",
 		"images/startbutton-sheet0.png",
-		"images/laneguide.png",
 		"media/mattoglseby - 3.ogg",
 		"icon-16.png",
 		"icon-32.png",
