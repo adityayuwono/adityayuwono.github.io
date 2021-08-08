@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1628400426
+#1628401669
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -26,6 +26,9 @@ images/tiledbackground.png
 images/efekhit-sheet0.png
 images/dini_fransiska-sheet0.png
 images/startbutton-sheet0.png
+media/ok%20-%201.ogg
+media/ok%20-%202.ogg
+media/thud%201.ogg
 media/mattoglseby%20-%203.ogg
 icon-16.png
 icon-32.png
