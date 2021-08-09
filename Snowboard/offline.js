@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1628401669,
+	"version": 1628485707,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -25,8 +25,7 @@
 		"images/heart-sheet1.png",
 		"images/tiledbackground.png",
 		"images/efekhit-sheet0.png",
-		"images/dini_fransiska-sheet0.png",
-		"images/startbutton-sheet0.png",
+		"images/home_menu-sheet0.png",
 		"media/ok - 1.ogg",
 		"media/ok - 2.ogg",
 		"media/thud 1.ogg",
