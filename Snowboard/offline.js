@@ -1,9 +1,9 @@
 ﻿{
-	"version": 1628485707,
+	"version": 1628761101,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
-		"jquery-2.1.1.min.js",
+		"jquery-3.4.1.min.js",
 		"offlineClient.js",
 		"images/leftbutton.png",
 		"images/sprite-sheet0.png",
@@ -26,6 +26,9 @@
 		"images/tiledbackground.png",
 		"images/efekhit-sheet0.png",
 		"images/home_menu-sheet0.png",
+		"images/stagelock-sheet0.png",
+		"images/stageopen-sheet0.png",
+		"images/stageselectbackground-sheet0.png",
 		"media/ok - 1.ogg",
 		"media/ok - 2.ogg",
 		"media/thud 1.ogg",
