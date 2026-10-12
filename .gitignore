@@ -1,1 +1,5 @@
 *.rar
+
+# BEGIN Cozy Sushi generated build exclusions
+/cozysushi/Build/cozysushi.data.unityweb
+# END Cozy Sushi generated build exclusions
