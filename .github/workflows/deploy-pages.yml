@@ -29,7 +29,7 @@ jobs:
       - name: Stage the complete website
         run: |
           mkdir -p "$RUNNER_TEMP/site"
-          rsync -a --exclude='.git/' --exclude='.github/' --exclude='.build-chunks/' --exclude='__pycache__/' --exclude='cozysushi/tools/' --exclude='cozysushi/HOSTING.md' --exclude='.gitignore' ./ "$RUNNER_TEMP/site/"
+          rsync -a --exclude='.git/' --exclude='.github/' --exclude='.build-chunks/' --exclude='__pycache__/' --exclude='cozysushi/tools/' --exclude='cozysushi/HOSTING.md' --exclude='cozysushi/Package WebGL.cmd' --exclude='.gitignore' ./ "$RUNNER_TEMP/site/"
           python cozysushi/tools/package_webgl.py assemble --destination "$RUNNER_TEMP/site"
       - uses: actions/upload-pages-artifact@v4
         with:

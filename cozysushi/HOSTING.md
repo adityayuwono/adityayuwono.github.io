@@ -3,7 +3,9 @@
 Build using Unity's WebGL profile with Decompression Fallback enabled. Keep the
 build at `cozysushi`, including index.html, Build, TemplateData and StreamingAssets.
 
-From the website repository root, run after every build:
+After every build, double-click `Package WebGL.cmd` in the `cozysushi` folder.
+The launcher keeps its window open to show the result. Alternatively, run from
+the website repository root:
 
 ```powershell
 python cozysushi/tools/package_webgl.py pack
