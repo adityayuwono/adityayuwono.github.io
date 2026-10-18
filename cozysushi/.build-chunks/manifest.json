@@ -3,23 +3,23 @@
   "files": [
     {
       "path": "cozysushi/Build/cozysushi.data.unityweb",
-      "size": 134807537,
-      "sha256": "4b7af809507e129d3821e3d384508fbf779fe879c92a6746a53e3cd9b312adc0",
+      "size": 134853026,
+      "sha256": "f57888c3f73e1c0612b88a47f466606c6bb544a4204bb7aa57e049506d23f1d9",
       "parts": [
         {
           "name": "d89d2bee0055e426.0000.part",
           "size": 52428800,
-          "sha256": "533e145b26b92ca076c9a31593ad2a4a354ef57f35883d1be2d337bc98acb826"
+          "sha256": "91b51ab2c6679d97ec04ea6959ab134df9d89bb584370214782cc5f73a576eb0"
         },
         {
           "name": "d89d2bee0055e426.0001.part",
           "size": 52428800,
-          "sha256": "25e8607c8664118361b650c30351c2a93250437ddb255a3e3d0de831908e727e"
+          "sha256": "6f2e48a38914bdc09e709be2927232b157c0cdc41dd2b4b8b9db745a99e7e7c6"
         },
         {
           "name": "d89d2bee0055e426.0002.part",
-          "size": 29949937,
-          "sha256": "97f23b7cb27fc23df901457d930c792707d4ba21a999e9e0d22860960ad864bd"
+          "size": 29995426,
+          "sha256": "96326d79b34f407699af1043d56932b4052548aea650e0b1906c34b0cecfd372"
         }
       ]
     }
